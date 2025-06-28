@@ -27,7 +27,7 @@ I’m excited about opportunities that combine education, technology, and commun
 -  **SheSells Marketplace** – An inclusive platform for women to sell local and handmade goods
 
 <h2>👨‍💻 Certifications:</h2>
-- [Professional Foundation Course]([https://www.youtube.com/](https://www.linkedin.com/in/mubarakah1/overlay/1750167744264/single-media-viewer?type=IMAGE&profileId=ACoAAEP38UABJpPQxDb9wdKLi3y8nVl-x4oEq44&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZlzUvos2QuiVhUoTS%2Fk1RA%3D%3D))
+- [Professional Foundation Course](https://www.linkedin.com/in/mubarakah1/overlay/1750167744264/single-media-viewer?type=IMAGE&profileId=ACoAAEP38UABJpPQxDb9wdKLi3y8nVl-x4oEq44&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZlzUvos2QuiVhUoTS%2Fk1RA%3D%3D)
 
 
 <h2>📺 Popular YouTube Videos</h2>
