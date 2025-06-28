@@ -7,9 +7,11 @@ I’m a to be skilled student in HTML, CSS, JavaScript, ReactJS, Tailwind CSS, B
 
 I’m excited about opportunities that combine education, technology, and community impact.
 
-<h2> 💞️ I’m looking forward to collaborating on </h2>
-- Women-welfare related projects
-- Educational platforms and tools
+<h2> I’m looking forward to collaborating on </h2>
+
+- Women-welfare related projects.
+  
+- Educational platforms and tools.
 
 <h2> Software Development Projects to build on:</h2>
 
