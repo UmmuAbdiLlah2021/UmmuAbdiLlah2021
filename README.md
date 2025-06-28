@@ -1,4 +1,4 @@
-<h1>Hi, I'm Akinbola Mubarakah! <br/><a href="https://https://github.com/UmmuAbdiLlah2021">Programmer</a>, <a href="https://www.linkedin.com/in/mubarakah1/">Frontend Developer</a>, <a href="https://www.youtube.com/baytulhub">Educationist</a></h1>
+<h1>Hi, I'm Akinbola Mubarakah! <br/><a href="https://https://github.com/UmmuAbdiLlah2021">Programmer</a>, <a href="https://www.linkedin.com/in/mubarakah1/">Frontend Developer</a>, <a href="https://www.youtube.com/@baytulhub">Educationist</a></h1>
 
 <h2> ABOUT ME </h2>
 I’m a junior developer and educator with a background in Chemistry and a passion for using technology to solve real-world problems. I love learning new tools and sharing knowledge to empower others.
